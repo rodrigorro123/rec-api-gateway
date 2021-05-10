@@ -1,1 +1,1 @@
-# rec-api-gateway
+# api-gateway
